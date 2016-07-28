@@ -1,0 +1,5 @@
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringModels\bin\Debug\SGFlooringModels.dll
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringModels\bin\Debug\SGFlooringModels.pdb
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringModels\obj\Debug\SGFlooringModels.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringModels\obj\Debug\SGFlooringModels.dll
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringModels\obj\Debug\SGFlooringModels.pdb

@@ -1,0 +1,155 @@
+======== Error ========
+Error occurred on: 7/1/2016 10:49:52 AM
+Location of Error: IntPromt validation
+Users Input: 
+======== Error ========
+Error occurred on: 7/1/2016 11:06:34 AM
+Location of Error: StatePrompt check if length is 2
+Users Input: P
+======== Error ========
+Error occurred on: 7/1/2016 11:06:53 AM
+Location of Error: DecimalPrompt checking if a valid decimal > 1
+Users Input: 5-
+======== Error ========
+Error occurred on: 7/1/2016 11:12:10 AM
+Location of Error: DateTimePrompt for input
+Users Input: 
+======== Error ========
+Error occurred on: 7/1/2016 11:12:12 AM
+Location of Error: DateTimePrompt for input
+Users Input: 
+======== Error ========
+Error occurred on: 7/1/2016 11:20:42 AM
+Message: Could not find a part of the path 'C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\bin\Debug\OrderFiles\07012016.txt'., Source: mscorlib
+Method Base: Void WinIOError(Int32, System.String), Inner Exception: 
+Stack Trace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at SGFlooringData.WriterAndReader.WriteToFile(List`1 orderList, String fileName) in C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringData\WriterAndReader.cs:line 15
+   at SGFlooringData.FileRepository.AddOrder(Order newOrder) in C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringData\Orders\FileRepository.cs:line 79
+   at SGFlooringBLL.OrdersManagement.AddOrder(Order orderToAdd) in C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringBLL\OrdersManagement.cs:line 62
+   at SGFlooringUI.WorkFlow.AddOrderWF.AddNewOrder(Order newOrder) in C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\WorkFlow\AddOrderWF.cs:line 112
+   at SGFlooringUI.WorkFlow.AddOrderWF.DisplayNewOrder(Order newOrder) in C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\WorkFlow\AddOrderWF.cs:line 105
+   at SGFlooringUI.WorkFlow.AddOrderWF.Execute() in C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\WorkFlow\AddOrderWF.cs:line 36
+   at SGFlooringUI.WorkFlow.MainMenu.ProcessChoice(Int32 userChoice) in C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\WorkFlow\MainMenu.cs:line 43
+   at SGFlooringUI.WorkFlow.MainMenu.StartMenu() in C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\WorkFlow\MainMenu.cs:line 28
+   at SGFlooringUI.Program.Main(String[] args) in C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\Program.cs:line 18
+======== Error ========
+Error occurred on: 7/1/2016 1:22:52 PM
+Location of Error: DecimalPrompt checking if a valid decimal > 1
+Users Input: -10
+======== Error ========
+Error occurred on: 7/1/2016 1:23:33 PM
+Location of Error: DateTimePrompt for input
+Users Input: 
+======== Error ========
+Error occurred on: 7/1/2016 1:24:10 PM
+Location of Error: DecimalPrompt checking if a valid decimal > 1
+Users Input: 111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+======== Error ========
+Error occurred on: 7/1/2016 1:27:02 PM
+Location of Error: IntPromt validation
+Users Input: 
+======== Error ========
+Error occurred on: 7/2/2016 6:33:43 AM
+Location of Error: DecimalPrompt checking if a valid decimal > 1
+Users Input: -56
+======== Error ========
+Error occurred on: 7/2/2016 6:48:35 AM
+Location of Error: IntPromt validation
+Users Input: 
+======== Error ========
+Error occurred on: 7/2/2016 6:49:49 AM
+Location of Error: DateTimePrompt for input
+Users Input: 
+======== Error ========
+Error occurred on: 7/4/2016 4:41:15 PM
+Location of Error: DateTimePrompt for input
+Users Input: 
+======== Error ========
+Error occurred on: 7/4/2016 6:32:58 PM
+Location of Error: DateTimePrompt for input
+Users Input: 
+======== Error ========
+Error occurred on: 7/4/2016 6:32:59 PM
+Location of Error: DateTimePrompt for input
+Users Input: 
+======== Error ========
+Error occurred on: 7/4/2016 6:33:00 PM
+Location of Error: DateTimePrompt for input
+Users Input: 
+======== Error ========
+Error occurred on: 7/4/2016 6:34:07 PM
+Location of Error: DateTimePrompt for input
+Users Input: 
+======== Error ========
+Error occurred on: 7/4/2016 6:39:34 PM
+Location of Error: DateTimePrompt for input
+Users Input: 
+======== Error ========
+Error occurred on: 7/4/2016 6:39:35 PM
+Location of Error: DateTimePrompt for input
+Users Input: 
+======== Error ========
+Error occurred on: 7/4/2016 6:39:36 PM
+Location of Error: DateTimePrompt for input
+Users Input: 
+======== Error ========
+Error occurred on: 7/4/2016 9:21:14 PM
+Location of Error: DateTimeTryParse in ConsoleIO for input
+Users Input: 
+======== Error ========
+Error occurred on: 7/4/2016 9:21:15 PM
+Location of Error: DateTimeTryParse in ConsoleIO for input
+Users Input: 
+======== Error ========
+Error occurred on: 7/4/2016 9:26:33 PM
+Location of Error: DateTimeTryParse in ConsoleIO for input
+Users Input: 
+======== Error ========
+Error occurred on: 7/4/2016 9:26:34 PM
+Location of Error: DateTimeTryParse in ConsoleIO for input
+Users Input: lsdkfjs
+======== Error ========
+Error occurred on: 7/4/2016 9:26:37 PM
+Location of Error: DateTimeTryParse in ConsoleIO for input
+Users Input: lkfjda
+======== Error ========
+Error occurred on: 7/4/2016 9:30:50 PM
+Location of Error: DecimalPrompt checking if a valid decimal > 1
+Users Input: laskfj
+======== Error ========
+Error occurred on: 7/5/2016 11:29:51 AM
+Location of Error: IntPromt validation
+Users Input: 
+======== Error ========
+Error occurred on: 7/5/2016 11:30:30 AM
+Location of Error: IntPromt validation
+Users Input: 
+======== Error ========
+Error occurred on: 7/5/2016 11:30:33 AM
+Location of Error: IntPromt validation
+Users Input: 
+======== Error ========
+Error occurred on: 7/5/2016 11:31:30 AM
+Location of Error: IntPromt validation
+Users Input: 
+======== Error ========
+Error occurred on: 7/6/2016 9:22:28 AM
+Location of Error: IntPromt validation
+Users Input: 
+======== Error ========
+Error occurred on: 7/6/2016 9:22:29 AM
+Location of Error: IntPromt validation
+Users Input: 
+======== Error ========
+Error occurred on: 7/6/2016 10:04:53 AM
+Location of Error: DecimalPrompt checking if a valid decimal > 1
+Users Input: -1289371
+======== Error ========
+Error occurred on: 7/6/2016 10:09:49 AM
+Location of Error: IntPromt validation
+Users Input: 

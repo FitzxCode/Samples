@@ -1,0 +1,14 @@
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\bin\Debug\SGFlooringUI.exe.config
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\bin\Debug\SGFlooringUI.exe
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\bin\Debug\SGFlooringUI.pdb
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\bin\Debug\SGFlooringModels.dll
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\bin\Debug\SGFlooringModels.pdb
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\obj\Debug\SGFlooringUI.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\obj\Debug\SGFlooringUI.exe
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\obj\Debug\SGFlooringUI.pdb
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\bin\Debug\SGFlooringBLL.dll
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\bin\Debug\SGFlooringData.dll
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\bin\Debug\SGFlooringBLL.pdb
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\bin\Debug\SGFlooringData.pdb
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\bin\Debug\DataFiles\Product.txt
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringUI\bin\Debug\DataFiles\State.txt

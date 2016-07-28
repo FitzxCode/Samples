@@ -1,0 +1,6 @@
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\TicTacToev1\TicTacToev1\bin\Debug\TicTacToev1.exe.config
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\TicTacToev1\TicTacToev1\bin\Debug\TicTacToev1.exe
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\TicTacToev1\TicTacToev1\bin\Debug\TicTacToev1.pdb
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\TicTacToev1\TicTacToev1\obj\Debug\TicTacToev1.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\TicTacToev1\TicTacToev1\obj\Debug\TicTacToev1.exe
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\TicTacToev1\TicTacToev1\obj\Debug\TicTacToev1.pdb

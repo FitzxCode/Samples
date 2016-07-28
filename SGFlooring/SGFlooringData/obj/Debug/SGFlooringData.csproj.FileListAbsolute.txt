@@ -1,0 +1,9 @@
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringData\obj\Debug\SGFlooringData.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringData\bin\Debug\SGFlooringData.dll
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringData\bin\Debug\SGFlooringData.pdb
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringData\bin\Debug\SGFlooringModels.dll
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringData\bin\Debug\SGFlooringModels.pdb
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringData\obj\Debug\SGFlooringData.dll
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringData\obj\Debug\SGFlooringData.pdb
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringData\bin\Debug\Ninject.dll
+C:\Users\Apprentice\Repos\individualWrk\brendan-fitzpatrick-individual-work\SGFlooring\SGFlooringData\bin\Debug\Ninject.xml
